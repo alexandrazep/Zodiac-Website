@@ -1,0 +1,114 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  margin-top: 20px;
+  text-align: center;
+  width: 100px;
+  
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="date"] {
+  padding: 8px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #61177c;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
+ button {
+   padding: 8px 20px;
+   background-color: #007bff;
+   color: #fff;
+   border: none;
+   cursor: pointer;
+ }
+
+
+#resultado {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#imagen_signo {
+  max-width: 200px;
+  margin-top: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+<link> hola </link>
+
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="date"] {
+  padding: 5px;
+}
+
+button {
+  padding: 8px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+#resultado {
+  margin-top: 20px;
+}
+
+/* #imagen_signo {
+  max-width: 200px;
+  margin-top: 20px;
+} */
+.nav1{
+  color: paleturquoise;
+  background-color: #d4e3fe;
+}
+
+.nav1 ul{
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+.nav1 ul li {
+  display: inline; 
+
+}
